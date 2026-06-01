@@ -1,0 +1,7 @@
+steps to follow to push the code in the GitHub
+
+1.git add < file name>
+2.git commit -m "any message"
+3.git branch -M main
+4.git remote add origin https://github.com/hasn-tech/Python_Projects.git
+5.git push -u origin main
